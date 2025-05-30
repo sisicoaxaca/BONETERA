@@ -1,3 +1,4 @@
 NOTAS GENERALES PARA EL PROYECTO BONETERA
 
 se genero el commint
+mas cambios de este archivo
