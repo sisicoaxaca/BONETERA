@@ -1,1 +1,3 @@
 NOTAS GENERALES PARA EL PROYECTO BONETERA
+
+se genero el commint
