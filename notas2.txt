@@ -1,1 +1,3 @@
 ESTE ES EL ARCHIVOS DE NOTAS PARA GIT
+
+ya se creo el commint
